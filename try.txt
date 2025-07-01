@@ -1,9 +1,0 @@
-commit A
-commit B
-commit C
-commit D
-commit E
-commit stash
-for git fetch
-editing in the github
-trying pull
